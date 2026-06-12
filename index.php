@@ -637,9 +637,9 @@ if ($url === 'dashboard') {
       padding: 96px 0 72px;
       overflow: hidden;
     }
-    /* número decorativo de fundo */
+    /* texto decorativo de fundo */
     .hero::after {
-      content: '30';
+      content: 'certo';
       position: absolute;
       right: -20px; top: 10px;
       font-family: 'Bebas Neue', sans-serif;
@@ -965,7 +965,7 @@ if ($url === 'dashboard') {
   <header>
     <div class="header-inner">
       <div class="logo"><span>Moto</span>Peças <span>Central</span></div>
-      <div class="header-tag">Est. 1994 &nbsp;·&nbsp; Minas Gerais</div>
+      <div class="header-tag">Propósito &nbsp;·&nbsp; Minas Gerais</div>
     </div>
   </header>
 
@@ -975,7 +975,7 @@ if ($url === 'dashboard') {
       <div class="hero-eyebrow">Especialistas em peças automotivas</div>
       <h1>A peça certa,<br>na hora <em>certa.</em></h1>
       <p class="hero-sub">
-        Há 30 anos fornecendo peças originais e paralelas para motos e veículos leves em toda a região. Estoque completo, entrega rápida e atendimento de quem entende do assunto.
+        Ajudamos você a encontrar a peça certa para manter seu veículo seguro, pronto para rodar e sem perder tempo. Unimos atendimento próximo, orientação técnica e compromisso com cada solução.
       </p>
     </div>
   </div>
@@ -984,12 +984,12 @@ if ($url === 'dashboard') {
   <div class="stats">
     <div class="stats-inner">
       <div class="stat reveal">
-        <div class="stat-num">+12K</div>
-        <div class="stat-label">Itens em estoque</div>
+        <div class="stat-num">Certo</div>
+        <div class="stat-label">Peça indicada</div>
       </div>
       <div class="stat reveal reveal-delay-1">
-        <div class="stat-num">30</div>
-        <div class="stat-label">Anos de experiência</div>
+        <div class="stat-num">Guia</div>
+        <div class="stat-label">Orientação técnica</div>
       </div>
       <div class="stat reveal reveal-delay-2">
         <div class="stat-num">+8K</div>
@@ -1046,9 +1046,9 @@ if ($url === 'dashboard') {
       <div class="sobre-layout">
         <div class="sobre-text reveal">
           <div class="section-label">Quem somos</div>
-          <h2>Tradição e confiança no Norte de Minas</h2>
-          <p>A <strong>Motopeças Central</strong> nasceu em 1994 como uma pequena loja de balcão no centro de Montes Claros. Crescemos junto com a cidade e hoje somos referência regional em peças para motos, carros de passeio e utilitários leves.</p>
-          <p>Nosso estoque conta com mais de <strong>12 mil itens</strong> entre peças originais, paralelas homologadas e acessórios. Trabalhamos com as principais marcas do mercado: Honda, Yamaha, Suzuki, Kawasaki, Volkswagen, Chevrolet, Fiat e muito mais.</p>
+          <h2>Confiança para você seguir rodando</h2>
+          <p>A <strong>Motopeças Central</strong> existe para simplificar a vida de quem depende do veículo todos os dias. Nosso papel é ouvir, entender a necessidade e indicar peças compatíveis com segurança e clareza.</p>
+          <p>Trabalhamos com peças originais, paralelas homologadas e acessórios das principais marcas do mercado, sempre buscando a melhor combinação entre qualidade, prazo e custo-benefício.</p>
           <p>Para oficinas e mecânicos, oferecemos <strong>condições especiais de pagamento</strong> e atendimento preferencial com pedidos por WhatsApp.</p>
         </div>
         <div class="sobre-destaque reveal reveal-delay-1">
