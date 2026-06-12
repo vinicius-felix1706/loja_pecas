@@ -140,15 +140,15 @@ Administrador:
 
 Coloque os prints na pasta `docs/prints/` usando estes nomes:
 
-![Tela inicial](docs/prints/tela-inicial.png)
+![Tela inicial](docs/prints/tela_inicial.png)
 
 ![Login](docs/prints/login.png)
 
-![Catalogo do cliente](docs/prints/catalogo-cliente.png)
+![Catalogo do cliente](docs/prints/catalogo_cliente.png)
 
-![Painel administrativo](docs/prints/painel-admin.png)
+![Painel administrativo](docs/prints/painel_administrativo.png)
 
-![Formulario de peca](docs/prints/formulario-peca.png)
+![Formulario de peca](docs/prints/formulario_peca.png)
 
 ![Pedidos](docs/prints/pedidos.png)
 
