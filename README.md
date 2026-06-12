@@ -157,7 +157,7 @@ Administrador:
 
 ---
 
-## Painel administrativo
+## Painel administrativo (Apenas Adm)
 
 ![Painel administrativo](docs/prints/painel_administrativo.png)
 
