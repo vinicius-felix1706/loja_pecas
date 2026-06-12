@@ -93,7 +93,7 @@ Arquivos SQL de apoio:
 2. Inicie o Apache e o MySQL pelo XAMPP.
 3. Crie um banco de dados chamado `loja_pecas`.
 4. Confira os dados de conexao em `admin/config/conexao.php`.
-5. Execute os scripts SQL da pasta `admin/config/` no banco.
+5. Execute os scripts SQL da pasta `admin/config/` no banco. Ou importe o banco sql no phpmyadmin, o arquivo sql encontra-se em `database/loja_pecas.sql`
 6. Acesse o sistema pelo navegador:
 
 ```text
