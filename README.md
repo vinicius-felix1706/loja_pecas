@@ -138,18 +138,18 @@ Administrador:
 
 ## Prints das principais telas
 
-Coloque os prints na pasta `docs/prints/` usando estes nomes:
 
+## Tela incial
 ![Tela inicial](docs/prints/tela_inicial.png)
-
+##Tela de login
 ![Login](docs/prints/login.png)
-
+## Catálogo do cliente
 ![Catalogo do cliente](docs/prints/catalogo_cliente.png)
-
+## Painel administrativo
 ![Painel administrativo](docs/prints/painel_administrativo.png)
-
+## Formuário de cadastro de peça
 ![Formulario de peca](docs/prints/formulario_peca.png)
-
+# Aba de pedidos (Carrrinho)
 ![Pedidos](docs/prints/pedidos.png)
 
 ## Link do repositorio
