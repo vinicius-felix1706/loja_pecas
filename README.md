@@ -26,8 +26,6 @@ O upload/insercao de imagem para uma peca existe na estrutura do formulario e no
 
 ## Diagrama de classes
 
-O diagrama de classes deve ser colocado na pasta `docs/prints/` com o nome `diagrama-classes.png`.
-
 ![Diagrama de classes](docs/prints/uml.png)
 
 ## Modelo do banco de dados
