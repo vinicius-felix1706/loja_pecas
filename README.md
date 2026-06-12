@@ -6,7 +6,7 @@ Vinicius Santos Felix
 
 ## Tema da loja
 
-Loja de pecas automotivas, com foco em pecas de motor para motos e veiculos leves.
+Loja de pecas automotivas, com foco em pecas de motor.
 
 ## Descricao do sistema
 
