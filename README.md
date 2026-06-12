@@ -102,7 +102,7 @@ Arquivos SQL de apoio:
 http://localhost/loja_pecas/
 ```
 
-Observacao: neste projeto a conexao esta configurada para MySQL na porta `3308`. Se o seu XAMPP usar a porta padrao, altere para `3306` em `admin/config/conexao.php`.
+Observacao: neste projeto a conexao esta configurada para MySQL na porta padrao `3306`.
 
 ## Usuario e senha de teste
 
